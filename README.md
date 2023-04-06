@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @wittlerfilho
-- 👀 I’m interested in learning about the world of computer science
-- 🌱 I’m currently learning HTML & CSS
-- 📫 How to reach me @wittlerfilho on the social networks
+# Bem vindo ao meu perfil! 👋
+
+
+aproveita e me segue nas redes sociais aí @wittlerfilho
+
+
+### atualmente fazendo um projets que em breve vai ser revelado 👀
 
 <!---
 wittlerfilho/wittlerfilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
